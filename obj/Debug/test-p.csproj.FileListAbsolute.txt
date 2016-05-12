@@ -1,0 +1,6 @@
+C:\Users\prasa\documents\visual studio 2013\Projects\test-p\test-p\bin\test-p.dll.config
+C:\Users\prasa\documents\visual studio 2013\Projects\test-p\test-p\bin\test-p.dll
+C:\Users\prasa\documents\visual studio 2013\Projects\test-p\test-p\bin\test-p.pdb
+C:\Users\prasa\documents\visual studio 2013\Projects\test-p\test-p\obj\Debug\test-p.csprojResolveAssemblyReference.cache
+C:\Users\prasa\documents\visual studio 2013\Projects\test-p\test-p\obj\Debug\test-p.dll
+C:\Users\prasa\documents\visual studio 2013\Projects\test-p\test-p\obj\Debug\test-p.pdb
